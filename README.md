@@ -1,4 +1,4 @@
-#Another Silly Vibe Coded APP
+# Another Silly Vibe Coded APP
 
 # How to Install
 **Download the apk**
